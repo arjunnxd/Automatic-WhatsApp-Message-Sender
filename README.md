@@ -1,5 +1,5 @@
 # Automatic-WhatsApp-Message-Sender
-An Automatic WhatsApp message sender that redirects into whatsapp automatically and sends the message to the recipient
+This Python script automates sending WhatsApp messages using the pywhatkit library. By providing a phone number, message, and scheduled time, the script launches WhatsApp Web and automatically sends the specified message. It's useful for scheduling reminders, greetings, or bulk messaging without manual intervention, streamlining communication through WhatsApp.
 
 Import Packages: 
 
