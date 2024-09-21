@@ -3,7 +3,7 @@ An Automatic WhatsApp message sender that redirects into whatsapp automatically 
 
 Import Packages: 
 
-pywhatkit
-time
-pyautogui
-keyboard
+pywhatkit,
+time,
+pyautogui,
+keyboard,
